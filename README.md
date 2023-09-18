@@ -1,4 +1,4 @@
-### Hi there 👋
+### Departamentul IT al Ligii Studentilor Electronisti 👋
 
 <!--
 **lseIT/lseIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
